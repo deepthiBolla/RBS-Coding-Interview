@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79d640d1-381e-42af-aa64-a49aebb807f5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y9tbbbVDsjcl2uhX4E0c5Uam9q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.rbs.service.customer.accounts" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rbs.service.customer.accounts.application" />
+      <recent name="com.rbs.service.customer.accounts.persistance.repository" />
+      <recent name="com.rbs.service.customer.accounts.web.model" />
+      <recent name="com.rbs.service.customer.accounts.persistance.model" />
+      <recent name="com.rbs.service.customeraccounts.exceptions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/sqldsfd" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources/sqlfe" />
+      <recent name="$PROJECT_DIR$/src/main/resources/sql" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CustomerAccountsServiceApplication">
+    <configuration name="CustomerAccountsServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rbs.service.customer.accounts.CustomerAccountsServiceApplication" />
+      <module name="customer-accounts-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rbs.service.customer.accounts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerAccountControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-accounts-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rbs.service.customer.accounts.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rbs.service.customer.accounts.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.rbs.service.customer.accounts.web.controller.CustomerAccountControllerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerAccountDelegatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-accounts-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rbs.service.customer.accounts.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rbs.service.customer.accounts.application" />
+      <option name="MAIN_CLASS_NAME" value="com.rbs.service.customer.accounts.application.CustomerAccountDelegatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerAccountDelegatorTest.testWhenGetInterestRateHappyPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-accounts-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rbs.service.customer.accounts.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rbs.service.customer.accounts.application" />
+      <option name="MAIN_CLASS_NAME" value="com.rbs.service.customer.accounts.application.CustomerAccountDelegatorTest" />
+      <option name="METHOD_NAME" value="testWhenGetInterestRateHappyPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerAccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-accounts-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rbs.service.customer.accounts.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rbs.service.customer.accounts.service" />
+      <option name="MAIN_CLASS_NAME" value="com.rbs.service.customer.accounts.service.CustomerAccountServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerAccountsServiceApplication" />
+        <item itemvalue="JUnit.CustomerAccountServiceTest" />
+        <item itemvalue="JUnit.CustomerAccountControllerIntegrationTest" />
+        <item itemvalue="JUnit.CustomerAccountDelegatorTest" />
+        <item itemvalue="JUnit.CustomerAccountDelegatorTest.testWhenGetInterestRateHappyPath" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79d640d1-381e-42af-aa64-a49aebb807f5" name="Default Changelist" comment="" />
+      <created>1582366709211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582366709211</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rbs/service/customer/accounts/web/controller/CustomerAccountController.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/web/controller/CustomerAccountControllerIntegrationTest.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rbs/service/customer/accounts/web/controller/CustomerAccountController.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rbs/service/customer/accounts/web/controller/CustomerAccountController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/web/controller/CustomerAccountControllerIntegrationTest.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/web/controller/CustomerAccountControllerIntegrationTest.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/web/controller/CustomerAccountControllerIntegrationTest.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rbs/service/customer/accounts/service/impl/CustomerAccountServiceImpl.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rbs/service/customer/accounts/service/impl/CustomerAccountServiceImpl.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rbs/service/customer/accounts/service/impl/CustomerAccountServiceImpl.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rbs/service/customer/accounts/service/impl/CustomerAccountServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rbs/service/customer/accounts/service/impl/CustomerAccountServiceImpl.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/service/CustomerAccountServiceTest.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/service/CustomerAccountServiceTest.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/application/CustomerAccountDelegatorTest.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/application/CustomerAccountDelegatorTest.java</url>
+          <line>210</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/application/CustomerAccountDelegatorTest.java</url>
+          <line>271</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rbs/service/customer/accounts/application/impl/CustomerAccountDelegatorImpl.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rbs/service/customer/accounts/application/impl/CustomerAccountDelegatorImpl.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/application/CustomerAccountDelegatorTest.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rbs/service/customer/accounts/application/CustomerAccountDelegatorTest.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/customer_accounts_service$CustomerAccountServiceTest.ic" NAME="CustomerAccountServiceTest Coverage Results" MODIFIED="1582542561239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.rbs.service.customer.accounts.*</FILTER>
+    </SUITE>
+  </component>
+</project>
